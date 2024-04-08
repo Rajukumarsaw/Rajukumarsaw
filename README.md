@@ -1,5 +1,7 @@
 Hi 👋, I'm Raju Kumar
 
+![Profile views](https://komarev.com/ghpvc/?username=Rajukumarsaw&color=blueviolet)
+
 A passionate full stack developer from India
 Coding
 
