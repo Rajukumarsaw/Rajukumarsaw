@@ -15,4 +15,4 @@ Coding
 
 📫 How to reach me rajukumarsaw184@gmail.com
 
-📄 Here's my Resume [Raju_Kumar_Resume](https://github.com/Rajukumarsaw/Rajukumarsaw/files/14903793/Raju_Kumar_Resume__2_.pdf)
+📄 Here's my [Resume](https://github.com/Rajukumarsaw/Rajukumarsaw/files/14903793/Raju_Kumar_Resume__2_.pdf)
