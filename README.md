@@ -1,6 +1,6 @@
 Hi 👋, I'm Raju Kumar
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRajukumarsaw)
+![Profile views](https://viewscount.onrender.com/api/profile-views)
 
 A passionate full stack developer from India
 Coding
