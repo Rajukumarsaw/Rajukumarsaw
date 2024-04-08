@@ -3,7 +3,7 @@ Hi 👋, I'm Raju Kumar
 ![Profile views](https://viewscount.onrender.com/api/profile-views)
 
 A passionate full stack developer from India
-Coding
+
 
 
 🔭 I'm an upbeat, passionate, and skilled Web Developer
