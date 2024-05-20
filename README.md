@@ -18,4 +18,4 @@ A passionate full stack developer from India
 
 📫 How to reach me rajukumarsaw184@gmail.com
 
-📄 Here's my [Resume](https://drive.google.com/file/d/1QJXuXilRtkgcLR5DjYfiEKvF75I2Y2Vj/view?usp=sharing)
+📄 Here's my [Resume](https://drive.google.com/file/d/1JlxuodoIIOJfMbsn4GYB1xcwXIMS1SaC/view?usp=drive_link)
