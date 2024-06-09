@@ -8,7 +8,7 @@ A passionate full stack developer from India
 
 🔭 I'm an upbeat, passionate, and skilled Web Developer
 
-🌱 I’m currently learning TypeScript, AWS, Docker
+🌱 I’m currently learning TypeScript
 
 🤝 I’m looking to collaborate on Web development projects
 
